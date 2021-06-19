@@ -22,3 +22,11 @@ docs/
 
 # Code coverage
 *.lst
+
+/dgithubtest
+dgithubtest.so
+dgithubtest.dylib
+dgithubtest.dll
+dgithubtest.a
+dgithubtest.lib
+dgithubtest-test-*
